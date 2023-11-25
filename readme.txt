@@ -10,7 +10,7 @@ For run:
          "python run.py"
 
 
-For run with desire parameter and dataset run:
+For run with desired parameter and dataset run:
         dataset : "cora", "citeseer","pubmem","USA","actor","twitch"
 	hidden	: hidden dimension
 	th 	: threshold for transitivity graph construction
